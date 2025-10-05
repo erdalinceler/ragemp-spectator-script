@@ -50,5 +50,7 @@ Players can use the `/spectate` command followed by a target player ID to begin 
 ## Resources
 
 - [RageMP Official Wiki](https://wiki.rage.mp) - Complete documentation for RageMP API and features
-- [RageMP Client-side API](https://wiki.rage.mp/index.php?title=Client-side) - Client scripting reference
-- [RageMP Server-side API](https://wiki.rage.mp/index.php?title=Server-side) - Server scripting reference
+- [Client-side Events](https://wiki.rage.mp/wiki/Client-side_events) - Client event reference
+- [Client-side Functions](https://wiki.rage.mp/wiki/Client-side_functions) - Client function reference
+- [Server-side Events](https://wiki.rage.mp/wiki/Server-side_events) - Server event reference
+- [Server-side Functions](https://wiki.rage.mp/wiki/Server-side_functions) - Server function reference
