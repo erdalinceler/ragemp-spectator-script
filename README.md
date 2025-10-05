@@ -19,12 +19,14 @@ A comprehensive spectator script for RageMP, allowing players to observe other p
 ## Architecture
 
 ### Client-side (`client/index.js`)
+
 - Handles camera control and visual effects
 - Manages spectator state and target tracking
 - Implements smooth following with distance checks
 - Processes entity streaming for spectator visibility
 
 ### Server-side (`server/index.js`)
+
 - Manages spectator commands and validation
 - Tracks player positions and states
 - Handles spectator session cleanup
@@ -44,3 +46,9 @@ Players can use the `/spectate` command followed by a target player ID to begin 
 
 - RageMP server and client environment
 - Player entity management system
+
+## Resources
+
+- [RageMP Official Wiki](https://wiki.rage.mp) - Complete documentation for RageMP API and features
+- [RageMP Client-side API](https://wiki.rage.mp/index.php?title=Client-side) - Client scripting reference
+- [RageMP Server-side API](https://wiki.rage.mp/index.php?title=Server-side) - Server scripting reference
